@@ -39,7 +39,7 @@ function escolherOpcao(opcao) {
 function main() {
     while (true) {
         menu();
-        const opcao = readline.question('Digite o número da ação desejada: ')
+        const opcao = readline.question('Digite o numero da acao desejada: ')
         escolherOpcao(opcao);
     }
 }

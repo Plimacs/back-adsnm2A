@@ -77,7 +77,7 @@ function trabalhar() {
         console.log('total = 88R$ x 10 = 880');
         saldoAnterior = bolsos[0].dinheiro;
         bolsos[0].dinheiro = bolsos[0].dinheiro - 880;
-        console.log(`Seu dinheiro: ${saldoAnterior} - 880R$ = ${bolsos[0].dinheiro}`);
+        console.log(`Seu dinheiro: ${saldoAnterior} - 880 = ${bolsos[0].dinheiro}`);
         listarBolsos();
     }
 };
