@@ -1,7 +1,10 @@
-class Contato {
+class contato {
     constructor(nome, email, telefone) {
-
-    }
-}
-
-module.exports = Contato;
+      this.nome = nome;
+      this.email = email;
+      this.telefone = telefone;
+    };
+  };
+  
+  
+  module.exports = contato;
