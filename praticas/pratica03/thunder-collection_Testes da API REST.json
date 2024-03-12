@@ -1,0 +1,23 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Testes da API REST",
+    "dateExported": "2024-03-12T22:58:37.132Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "ac07cbd1-8246-4caf-bc2a-32c0aaa21a8e",
+            "colId": "0f94360a-bebd-489c-a063-753b99d6875e",
+            "containerId": "",
+            "name": "https://dummyjson.com/products",
+            "url": "https://dummyjson.com/products/101",
+            "method": "PUT",
+            "sortNum": 10000,
+            "created": "2024-03-12T22:56:32.510Z",
+            "modified": "2024-03-12T22:56:32.510Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
